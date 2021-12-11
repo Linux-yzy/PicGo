@@ -6,7 +6,7 @@
 将之前的Token黏贴在这里
 存储的路径可以按照我这样子写，就会在repository下创建一个“Images/2020/07/”文件夹(我是按照月份分类文件夹的，注意别漏了最后的斜杠)
 自定义域名的作用是，在上传图片后成功后，PicGo会将“自定义域名+上传的图片名”生成的访问链接，放到剪切板. https://raw.githubusercontent.com/yefcion/cloudimg/master这个要改一下 格式 https://raw.githubusercontent.com/[username]/[仓库名]/master
-#加速设置（微信公众号如果不加速会出现拉取失败现象）
+# 加速设置（微信公众号如果不加速会出现拉取失败现象）
 https://raw.githubusercontent.com//Linux-yzy/PicGo/master
 改为：
 https://cdn.jsdelivr.net/gh/Linux-yzy/PicGo@master
