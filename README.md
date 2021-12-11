@@ -10,3 +10,5 @@
 https://raw.githubusercontent.com//Linux-yzy/PicGo/master
 改为：
 https://cdn.jsdelivr.net/gh/Linux-yzy/PicGo@master
+![image](https://user-images.githubusercontent.com/67667674/145685211-fb82970f-d534-4eb1-92ac-e5d363e5d60f.png)
+
