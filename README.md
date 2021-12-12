@@ -12,4 +12,4 @@ https://raw.githubusercontent.com//Linux-yzy/PicGo/master
 https://cdn.jsdelivr.net/gh/Linux-yzy/PicGo@master
 ![image](https://user-images.githubusercontent.com/67667674/145685211-fb82970f-d534-4eb1-92ac-e5d363e5d60f.png)
 微信公众号拉取失败如下图：
-https://cdn.jsdelivr.net/gh/Linux-yzy/PicGo@master/Images00.png
+![00](https://user-images.githubusercontent.com/67667674/145696904-9f2e3619-b982-400c-82c1-6c46142c28fd.png)
